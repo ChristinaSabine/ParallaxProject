@@ -1,0 +1,32 @@
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+
+.overlay {
+    min-height: 500px;
+    padding: 50px;
+}
+
+.black-bg {
+    background: rgba(0, 0, 0, 0.25);
+    colour: #ffffff;
+}
+
+.white-bg {
+    background: rgba(0, 0, 0, 0.65);
+    colour: #000000;
+}
+
+.container {
+    width: 900px;
+    margin: 0px auto; 
+}
+
+.clearfix {
+    clear:both;
+}
+
+.image-width {
+    width: 100%;
+}
